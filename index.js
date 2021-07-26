@@ -1,11 +1,11 @@
 const sentence = "I will work for google someday."
-const vowels =[
-    a = "a",
-    e = "e",
-    i = "i",
-    o = "o",
-    u = "u"
-]
+const vowels ={
+    a: "a",
+    e:"e",
+    i:"i",
+    o:"o",
+    u :"u"
+}
 
 function algo (sentence) {
     let lengthOfWords= 0;
